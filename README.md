@@ -1,6 +1,7 @@
 # Shopping-Cart & Cart Checkout Modules 
 Branch of the main E-commerce dev v1
 
+# Deployed here: https://shoppingcart-reactjs.netlify.app/
 Features Included:
 - Filter Products (Price, Rating, Fast Delivery)
 - Add to Cart layouts
